@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code Link](https://github.com/DarkPhoenixNinja92/Product-Preview-Card-Component)
-- Live Site URL: [Live Site](https://darkphoenixninja92.github.io/Product-Preview-Card-Component/)
+- Solution URL: [Code Link](https://github.com/ShaunPour/Product-Preview-Card-Component)
+- Live Site URL: [Live Site](https://shaunpour.github.io/Product-Preview-Card-Component/)
 
 ## My process
 Given how straightforward this project was, there wasn't much of a process. I set up the basic html structure at the start and played around with the css to get the mobile first responsiveness working as I wanted it.
